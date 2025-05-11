@@ -1,0 +1,10 @@
+unduh file .zip
+ekstrak file .zip
+buka vscode
+klik file dan pilih open folder
+pilih folder AttendEZ
+running aplikasi menggunakan terminal dari vscode
+masuk ke terminal vscode
+masukkan prompt dibawah ini :
+python AttendEZ.py
+ikuti menu yang tertera secara urut.
